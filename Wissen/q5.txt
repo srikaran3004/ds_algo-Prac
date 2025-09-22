@@ -1,0 +1,1 @@
+SQL Question of an Edtech platform consisting of Students Courses Lessons Modules Quizzes design schema and write queries for three questions

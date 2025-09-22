@@ -1,0 +1,20 @@
+You have two bottles: one that can hold exactly 3 liters of water and another that can hold exactly 5 liters.
+
+Your goal is to measure out precisely 4 liters of water using only these two bottles, with no additional measuring devices or markings available on the bottles.
+You can fill the bottles to their full capacity, empty them completely, or pour water from one bottle to the other until one is full or the other is empty.
+
+Step 1: Fill the 5-liter container from the tap.
+
+Step 2: Pour the 5 liters into the 3-liter container until it's full, leaving 2 liters in the 5-liter container.
+
+Step 3: Empty the 3-liter container.
+
+Step 4: Pour the remaining 2 liters from the 5-liter container into the 3-liter container.
+
+Step 5: Fill the 5-liter container again.
+
+Step 6: Pour water from the 5-liter container into the 3-liter container until it's full. Since only 1 liter was needed, the 5-liter container will be left with 4 liters of water.
+
+This is the best approach with the least number of steps to measure the water in the container to be exact, 4 liters.
+
+We can measure 4 liters using another approach, which we will be discussing below.
