@@ -1,0 +1,23 @@
+🔹 Round 1 – Online Assessment (90 mins)
+ ✅ 3 DSA questions + 10–15 MCQs (covering DSA, OOPS, DBMS, Aptitude)
+ ✅ Completed everything in ~70 minutes
+ DSA Questions:
+ 1️⃣ Dijkstra’s Algorithm (with minimal changes)
+ 2️⃣ Special Number using Digit DP
+ 3️⃣ LRU Cache Implementation using map + doubly linked list
+
+🔹 Round 2 – Technical Interview (45 mins)
+ ✅ Asked to solve 2 DSA questions live and explain my approach + complexity
+ ✅ Solved both in 35 minutes and discussed optimizations
+ DSA Questions:
+ 1️⃣ Decode String (stack/recursion based)
+ 2️⃣ Shortest Subarray to be Removed to Make Array Sorted (two-pointer approach)
+
+🔹 Round 3 – Hiring Manager Interview (~45 mins)
+ ✅ Deep dive into my resume, projects, and prior experience
+ ✅ Ended with a riddle, which I solved with minimal hints — finishing the process on a positive note
+
+✨ Key Learnings:
+Consistency in DSA practice (especially Graphs, DP, and Arrays) was crucial
+Having strong projects on my resume helped me stand out in the HM round
+Clear communication of my thought process and optimizations was key in interviews.
